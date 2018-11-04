@@ -3,7 +3,7 @@ layout: cv
 title: Zack Batist - Resume
 ---
 # Zack Batist
-Fancy
+Fancy x
 
 <div id="webaddress">
 | <a href="http://zackbatist.github.io">zackbatist.github.io</a>
