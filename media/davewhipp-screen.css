@@ -41,7 +41,7 @@ blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
-	font-size: 200%;
+	font-size: 100%;
 }
 table {
 	border-collapse: collapse;
@@ -72,7 +72,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 150%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
