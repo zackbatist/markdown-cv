@@ -48,7 +48,7 @@ __Research Assistant__, E-CURATORS - Pervasive Digital Curation Activities, Obje
 - Literature review
 - xxx
 
-`2016-2018`
+`2016 - 2018`
 __Database Manager__, [Stelida Naxos Archaeological Project](http://www.stelida.org/)
 - The Canadian Institute in Greece
 - xxx
@@ -87,7 +87,7 @@ __Teaching Assistant__, World Archaeology (ANTH 2WA3E)
 __Teaching Assistant__, Introduction to Anthropology: Identity, Race and Power (ANTH 1AB3E)
 - Department of Anthropology, McMaster University
 
-`2013 Fall`
+`2013`
 __Teaching Assistant__, Introduction to Anthropology: Sex, Food and Death (ANTH 1AA3)
 - Department of Anthropology, McMaster University
 
@@ -130,23 +130,23 @@ Dawson College
 `2017`
 T. Carter, Z. Batist, K. Campeau, Y. Garfinkel & K. Streit.
 __[Investigating Pottery Neolithic Socio-Economic "Regression" in the Southern Levant: Characterising Obsidian Consumption at Sha'ar Hagolan (N. Israel)](http://dx.doi.org/10.1016/j.jasrep.2017.08.016)__
-*Journal of Archaeological Science: Reports* 15:305-317. DOI: 10.1016/j.jasrep.2017.08.016
+Journal of Archaeological Science: Reports 15:305-317. DOI: 10.1016/j.jasrep.2017.08.016
 
 `2014`
 K.P. Freund & Z. Batist.
 __[Sardinian Obsidian Circulation and Early Maritime Navigation in the Neolithic as Shown through Social Network Analysis](https://dx.doi.org/10.1080/15564894.2014.881937)__
-*Journal of Island and Coastal Archaeology* 9(3):364-380. DOI: 10.1080/15564894.2014.881937
+Journal of Island and Coastal Archaeology 9(3):364-380. DOI: 10.1080/15564894.2014.881937
 
 `2009`
 M. Loignon, W. Miao, L. Hu, A. Bouchard, T.A. Bismar, P.J. Scrivens, K. Mann, M. Basik, P. Fiset, Z. Batist & G. Batist.
 __[Frequent Nrf2 depletion due to Cul3 overexpression in breast cancer is associated with sensitivity to carcinogens, oxidative stress and chemotherapy](https://dx.doi.org/10.1158/1535-7163.MCT-08-1186)__
-*Molecular Cancer Therapeutics* 8(8):2432-2440. DOI: 10.1158/1535-7163.MCT-08-1186
+Molecular Cancer Therapeutics 8(8):2432-2440. DOI: 10.1158/1535-7163.MCT-08-1186
 
 ### Books
 `2018`
-S. Graham, N. Gupta, J. Smith, A. Angourakis, A. Reinhard, L. Richardson, K. Ellenberger, __Z. Batist__, J. Rivard, B. Marwick, M. Carter, & B. Compton.
+S. Graham, N. Gupta, J. Smith, A. Angourakis, A. Reinhard, L. Richardson, K. Ellenberger, Z. Batist, J. Rivard, B. Marwick, M. Carter, & B. Compton.
 __[The Open Digital Archaeology Textbook Environment (ODATE)](https://o-date.github.io/)__
-- *Recipient of the Archaeological Institute of America's Award for Outstanding Work in Digital Archaeology*
+- Recipient of the Archaeological Institute of America's Award for Outstanding Work in Digital Archaeology
 
 ### Conference Presentations
 `2018`
@@ -164,7 +164,7 @@ Z. Batist & C. Dallas.
 __A view from the bridge: human- and thing-centred approaches to research practice, disciplinary discourse and local engagement with the archaeological record.__
 Paper presented at TAG (North America) 2017 - The Medium is the Message: Media and Mediation in Archaeology. Toronto, Ontario, May 2017.
 
-2017
+`2017`
 __T. Carter, K. Campeau, Z. Batist, Y. Garfinkel, D. Rosenberg, Y. Rowan & K. Streit Social Interaction at Distance Over the Long Term: Obsidian Sourcing from the Southern Levant (9th – 4th millennia cal BC).__
 Paper presented at the Society for American Archaeology 82nd Annual Meeting. Vancouver, British Columbia, March – April 2017.
 
